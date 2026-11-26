@@ -1,5 +1,0 @@
-.env
-__pycache__/
-*.pyc
-gang_attendance.csv
-gang_config.json
